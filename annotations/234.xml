@@ -1,0 +1,26 @@
+<annotation>
+	<folder>untied</folder>
+	<filename>aapmg.jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/aapmg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>untied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>55</ymin>
+			<xmax>314</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

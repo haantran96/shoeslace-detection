@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part2</folder>
+	<filename>images (88).jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/images (88).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>208</ymin>
+			<xmax>108</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

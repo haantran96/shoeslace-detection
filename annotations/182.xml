@@ -1,0 +1,26 @@
+<annotation>
+	<folder>untied</folder>
+	<filename>0adej.jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/0adej.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>untied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>46</ymin>
+			<xmax>254</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tied</folder>
+	<filename>5ect7.jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/5ect7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>741</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>74</ymin>
+			<xmax>741</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>untied</folder>
+	<filename>lfmd7.jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/lfmd7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>untied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>11</ymin>
+			<xmax>212</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

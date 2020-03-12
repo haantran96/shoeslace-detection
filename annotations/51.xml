@@ -1,0 +1,26 @@
+<annotation>
+	<folder>untied</folder>
+	<filename>5t2bz.jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/5t2bz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>untied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>42</ymin>
+			<xmax>154</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

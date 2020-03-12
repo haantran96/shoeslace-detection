@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part2</folder>
+	<filename>5660016929_e5ea2316e6_n.jpg</filename>
+	<path>/home/an/shoeslace/dataset/train/5660016929_e5ea2316e6_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>untied_shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>76</ymin>
+			<xmax>309</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
