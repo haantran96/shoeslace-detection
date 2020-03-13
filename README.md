@@ -14,5 +14,7 @@ The dataset contains 245 vs. 230 annotations of untied and tied shoes pictures. 
 cd darkflow/
 python3 simple_inference.py --model [PATH_TO_MODEL] --load [NUMBER_OF_ITERATIONS] --threshold [THRESHOLD] --gpu [GPU_PERCENT] --test [PATH_TO_TEST_FOLDER]
 ```
+
 The output result for example should look like this:
+
 ![test-video-yolo2](https://github.com/haantran96/shoeslace-detection/blob/master/test_video.gif)
